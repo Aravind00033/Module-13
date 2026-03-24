@@ -24,9 +24,6 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 ### PROGRAM
 
 ```
-# Reg.No-212223060064
-# Name-Ganapathy Shriram V B
-
 OPERATORS = set(['*', '-', '+', '%', '/', '**'])
 
 def evaluate(expression):
