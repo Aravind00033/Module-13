@@ -29,9 +29,6 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 ### PROGRAM
 
 ```
-# Reg.No-212223060064
-# Name-Ganapathy Shriram V B
-
 OPERATORS = set(['*', '+'])
 
 def evaluate_postfix(expression):
