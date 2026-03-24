@@ -26,9 +26,6 @@ To write a Python program to convert a given Infix expression to Postfix express
 ### PROGRAM
 
 ```
-# Reg.No-212223060064
-# Name-Ganapathy Shriram V B
-
 OPERATORS = set(['&', '-', '/', '(', ')'])
 PRIORITY = {'&': 1, '-': 2, '/': 3}
 
