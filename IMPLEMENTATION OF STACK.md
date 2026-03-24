@@ -25,9 +25,6 @@ To write a Python program to implement a stack using a list and its built-in met
 ### PROGRAM
 
 ```
-# Reg.No-212223060064
-# Name-Ganapathy Shriram V B
-
 stack = []
 
 class Stack:
